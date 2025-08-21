@@ -59,9 +59,9 @@ Solução em desenvolvimento... 🚧
 
 | Sprint          |    Período    | Documentação                                     |
 | --------------- | :-----------: | ------------------------------------------------ |
-| 🔖 **SPRINT 1** | 10/03 - 30/03 | [Sprint 1 Docs](./docs/processo/sprints/sprint-1/README.md) |
-| 🔖 **SPRINT 2** | 07/04 - 27/04 | [Sprint 2 Docs](./docs/processo/sprints/sprint-2/README.md) |
-| 🔖 **SPRINT 3** | 05/05 - 25/05 | [Sprint 3 Docs](./docs/processo/sprints/sprint-3/README.md) |
+| 🔖 **SPRINT 1** | 08/09 - 28/09 | [Sprint 1 Docs](./docs/processo/sprints/sprint-1/README.md) |
+| 🔖 **SPRINT 2** | 06/10 - 26/10 | [Sprint 2 Docs](./docs/processo/sprints/sprint-2/README.md) |
+| 🔖 **SPRINT 3** | 03/11 - 23/11 | [Sprint 3 Docs](./docs/processo/sprints/sprint-3/README.md) |
 
 ## 💻 Tecnologias <a id="tecnologias"></a>
 
@@ -143,6 +143,12 @@ Solução em desenvolvimento... 🚧
       <td>Product Owner</td>
       <td><a href="https://github.com/Cauanvmb"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
       <td><a href="www.linkedin.com/in/cauan-barbaglio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+    </tr>
+    <tr>
+      <td>Vinícius Chaves</td>
+      <td>Scrum Master</td>
+      <td><a href="https://github.com/ChavesVini"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
+      <td><a href="https://br.linkedin.com/in/vin%C3%ADcius-chaves-197353244"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
   </table>
 </div>
