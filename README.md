@@ -1,10 +1,10 @@
 # API 6º Semestre BD
 
-# Nome da empresa parceira - nome da aplicação
+# Nome da empresa parceira
 
 <p align="center">
       <img src="docs/201302063.jpeg" alt="logo da New-Generation" width="200">
-      <h2 align="center"> New-Generation</h2>
+      <h2 align="center"> Nome da aplicação</h2>
 </p>
 
 <p align="center">
