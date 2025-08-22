@@ -1,0 +1,6 @@
+[submodule "API_6SEM_FRONT_END"]
+	path = API_6SEM_FRONT_END
+	url = https://github.com/new-ge/API_6SEM_FRONT_END
+[submodule "API_6SEM_BACK_END"]
+	path = API_6SEM_BACK_END
+	url = https://github.com/new-ge/API_6SEM_BACK_END
