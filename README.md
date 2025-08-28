@@ -1,10 +1,10 @@
 # API 6º Semestre BD
 
-# Nome da empresa parceira
+# PRO4TECH
 
 <p align="center">
       <img src="docs/201302063.jpeg" alt="logo da New-Generation" width="200">
-      <h2 align="center"> Nome da aplicação</h2>
+      <h2 align="center"> LuminIA </h2>
 </p>
 
 <p align="center">
@@ -146,13 +146,13 @@ Solução em desenvolvimento... 🚧
       <td>Cauan Barbaglio</td>
       <td>Product Owner</td>
       <td><a href="https://github.com/Cauanvmb"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
-      <td><a href="www.linkedin.com/in/cauan-barbaglio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+      <td><a href="https://www.linkedin.com/in/cauan-barbaglio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
     <tr>
       <td>Vinícius Chaves</td>
       <td>Scrum Master</td>
       <td><a href="https://github.com/ChavesVini"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></td>
-      <td><a href="https://br.linkedin.com/in/vin%C3%ADcius-chaves-197353244"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+      <td><a href="https://www.linkedin.com/in/vin%C3%ADcius-chaves-197353244"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
     <tr>
       <td>Amanda Vannucci</td>
