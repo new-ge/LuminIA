@@ -3,7 +3,7 @@
 # PRO4TECH
 
 <p align="center">
-      <img src="docs/201302063.jpeg" alt="logo da New-Generation" width="200">
+      <img src="docs/Logo LuminIA.jpeg" alt="logo_projeto" width="200">
       <h2 align="center"> LuminIA </h2>
 </p>
 
