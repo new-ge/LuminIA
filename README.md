@@ -54,10 +54,10 @@ A LuminIA é um dashboard integrado com inteligência artificial, cuidadosamente
 | 11 | Dashboard de Indicadores de Suporte | | Como gestor de suporte, quero visualizar o volume de chamados reincidentes, para que possa identificar problemas recorrentes, reduzir retrabalho da equipe e melhorar a satisfação do cliente. | | | Em andamento |
 | 12 | Otimização do Suporte ao Cliente | | Como gestor de suporte, quero visualizar o sentimento de cada chamado, usando uma IA para análise, para que possa identificar padrões recorrentes e a identificação rápida de chamados críticos. | | | Em andamento |
 | 13 | Dashboard de Indicadores de Suporte | | Como gestor de suporte, quero filtrar por planos de SLA, equipe, status, período, prioridade, subcategoria e tag, para que possa analisar os dados segmentados e tomar decisões mais precisas. | | | Em andamento |
-| 14 | Administração | | Como administrador, quero criar diferentes níveis de acesso, para que eu possa controlar quem pode ver tais dados. | | | Em andamento |
-| 15 | Gestão de Acessos | | Como administrador, quero excluir usuários, para que possa revogar o acesso a aplicação. | | | Em andamento |
-| 16 | Gestão de Acessos | | Como administrador, quero criar usuários, para que possa conceder o acesso a aplicação. | | | Em andamento |
-| 17 | Gestão de Acessos | | Como administrador, quero editar usuários, para que possa editar as informações dos usuários da aplicação. | | | Em andamento |
+| 14 | Gestão de Acessos | | Como administrador, quero criar diferentes níveis de acesso, para que eu possa controlar quem pode ver tais dados. | | | Em andamento |
+| 15 | Administração | | Como administrador, quero excluir usuários, para que possa revogar o acesso a aplicação. | | | Em andamento |
+| 16 | Administração | | Como administrador, quero criar usuários, para que possa conceder o acesso a aplicação. | | | Em andamento |
+| 17 | Administração | | Como administrador, quero editar usuários, para que possa editar as informações dos usuários da aplicação. | | | Em andamento |
 | 18 | Login | | Como usuário da aplicação, quero realizar login com credenciais seguras, para que eu possa acessar apenas as funcionalidades autorizadas ao meu perfil. | | | Em andamento |
 
 ---
