@@ -66,11 +66,13 @@ A LuminIA é um dashboard integrado com inteligência artificial, cuidadosamente
 
 - Tarefas divididas a partir das User Stories
 - Design pronto no Figma
-
+- User Stories com Critérios de Aceitação
+- Modelagem do Banco de Dados
+  
 ## 🏆 DoD - Definition of Done <a id="dod"></a>
 
 * Lista de tópicos
-
+-Código completo
 ---
 
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
