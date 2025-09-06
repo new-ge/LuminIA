@@ -39,7 +39,7 @@ A LuminIA é um dashboard integrado com inteligência artificial, cuidadosamente
 
 ## 📋 Backlog do Produto <a id="backlog"></a>
 
-|  **Rank** | **Épico** | **Prioridade** | **User Story** | **Story Points** | **Sprint** | **Status** |
+|  **Rank** | **Épico** | **Prioridade** | **User Story** | **Sprint** | **Story Points** | **Status** |
 | :--: | :--------: | :------: | :----------: | :----: | :------------------: | :----: |
 | 1 | Dashboard de Indicadores de Suporte com IA | Alta | Como gestor ou analista de suporte, quero disponibilizar um FAQ com respostas às perguntas mais comuns dos clientes, para que eu possa reduzir o volume de chamados repetitivos e agilizar o atendimento. | 1 | | Em andamento |
 | 2 | Dashboard de Indicadores de Suporte com IA | Alta | Como gestor de suporte, quero visualizar o volume de chamados em aberto, para que possa saber quantos chamados ainda estão precisando de uma resposta. | 1 | | Em andamento |
