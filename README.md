@@ -72,7 +72,7 @@ A LuminIA é um dashboard integrado com inteligência artificial, cuidadosamente
 ## 🏆 DoD - Definition of Done <a id="dod"></a>
 
 * Lista de tópicos
--Código completo
+- Código completo
 ---
 
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
