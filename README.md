@@ -142,7 +142,7 @@ A LuminIA é um dashboard integrado com inteligência artificial, cuidadosamente
 
 ---
 
-### 3. Configuração do Frontend (auxia-frontend)
+### 3. Configuração do Frontend (Vue.js)
 
 ```bash
 
