@@ -52,7 +52,7 @@ O desafio consiste em **modernizar o banco de dados de suporte**, englobando as 
 ### 1.3 Análise e Dashboards
 - Disponibilizar dados para construção de **dashboards gerenciais** .
 
-### 1.5 Hierarquia e Níveis de Monitoramento
+### 1.4 Hierarquia e Níveis de Monitoramento
 - O sistema deve disponibilizar **visões específicas por nível de suporte**:
   - **Nível 1, Nível 2 e Nível 3 (Analistas):** acompanham indicadores filtrados de sua equipe, com maior detalhamento.
   - **Product Owner (PO):** visão macro da equipe, incluindo métricas de SLA, reincidência, volume por status e análises preditivas.
@@ -66,8 +66,6 @@ O desafio consiste em **modernizar o banco de dados de suporte**, englobando as 
 | Product Owner | Visão geral dos dados da equipe, relatórios e tendências. |
 | Gestor | Visão consolidada de todas as equipes sob sua gestão. |
 | Administrador (ADM) | Gerencia usuários, permissões, logs e configurações do sistema. |
-
----
 
 ## 3. Fluxo Operacional
 
