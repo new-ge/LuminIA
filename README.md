@@ -50,10 +50,7 @@ O desafio consiste em **modernizar o banco de dados de suporte**, englobando as 
 - Configurar **logs detalhados** para rastrear alterações, acessos e status de chamados.
 
 ### 1.3 Análise e Dashboards
-- Disponibilizar dados para construção de **dashboards gerenciais** (volume de chamados, reincidência, SLA, tendências).
-
-### 1.4 Automação e Inteligência
-- Incorporar **análise de sentimento via IA** sobre descrição/título de chamados.
+- Disponibilizar dados para construção de **dashboards gerenciais** .
 
 ### 1.5 Hierarquia e Níveis de Monitoramento
 - O sistema deve disponibilizar **visões específicas por nível de suporte**:
