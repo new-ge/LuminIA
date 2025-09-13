@@ -31,10 +31,10 @@
 
 ## Descrição do Desafio
 
-O ChatGPT disse:
+A situação atual mostra que o banco de dados de suporte já não atende bem às necessidades da operação: ele não garante totalmente a conformidade com a lei, não oferece clareza suficiente para auditorias e nem facilita análises históricas ou preditivas. Isso significa que os relatórios acabam sendo engessados e repetitivos, sem dar uma visão completa para quem precisa tomar decisões. A proposta de modernização busca corrigir essas limitações, trazendo mais segurança no tratamento dos dados, transparência no acompanhamento das ações e dashboards que ajudem cada nível da equipe – desde os analistas até gestores e responsáveis estratégicos – a visualizar exatamente as informações de que precisam para trabalhar com mais eficiência.
 
-A situação atual mostra que o banco de dados de suporte já não atende bem às necessidades da operação: ele não garante totalmente a conformidade com a lei, não oferece clareza suficiente para auditorias e nem facilita análises históricas ou preditivas. Isso significa que os relatórios acabam sendo engessados e repetitivos, sem dar uma visão completa para quem precisa tomar decisões. A proposta de modernização busca corrigir essas limitações, trazendo mais segurança no tratamento dos dados, transparência no acompanhamento das ações e dashboards que ajudem cada nível da equipe – desde os analistas até gestores e responsáveis estratégicos – a visualizar exatamente as informações de que precisam para trabalhar com mais eficiência.
 ---
+
 ## 🏅 Solução <a id="solucao"></a>
 
 A LuminIA é um dashboard integrado com inteligência artificial, cuidadosamente desenvolvido para facilitar e otimizar a tomada de decisões da gestão, ao mesmo tempo em que oferece suporte contínuo aos analistas no atendimento de chamados. Com insights estratégicos e o reforço da inteligência artificial, a LuminIA transforma informações complexas em ações concretas, tornando todo o processo de suporte mais eficiente, ágil, inteligente e alinhado às necessidades do negócio. Tudo isso é oferecido por uma ferramenta moderna, intuitiva e de fácil utilização, projetada para que gestores e analistas consigam acessar rapidamente os dados.
