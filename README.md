@@ -29,58 +29,11 @@
 
 ## 🏅 Desafio <a id="desafio"></a>
 
-## 1. Descrição do Desafio
+## Descrição do Desafio
 
-A base de dados atual de suporte apresenta limitações que comprometem tanto a conformidade legal quanto a evolução analítica necessária para apoiar a operação. Entre os principais pontos identificados estão:
+O ChatGPT disse:
 
-- Estrutura de dados legada, pouco aderente às exigências atuais da **LGPD**.
-- Ausência de **logs estruturados** para rastreabilidade e auditoria.
-- Dificuldade em realizar **análises históricas e preditivas** devido ao modelo atual de armazenamento.
-- **Relatórios pouco flexíveis**, com respostas repetitivas e ausência de visão consolidada.
-
-O desafio consiste em **modernizar o banco de dados de suporte**, englobando as seguintes frentes:
-
-### 1.1 Modelagem de Dados
-- Refatorar a estrutura existente para atender requisitos de **histórico**, **LGPD** e **auditoria**.
-- Garantir normalização adequada sem perder eficiência em consultas analíticas.
-
-### 1.2 Conformidade e Segurança
-- Implementar **anonimização/pseudonimização** de dados sensíveis.
-- Estabelecer **níveis de acesso** (N1, N2, N3, Gestor, Product Owner, ADM).
-- Configurar **logs detalhados** para rastrear alterações, acessos e status de chamados.
-
-### 1.3 Análise e Dashboards
-- Disponibilizar dados para construção de **dashboards gerenciais** .
-
-### 1.4 Hierarquia e Níveis de Monitoramento
-- O sistema deve disponibilizar **visões específicas por nível de suporte**:
-  - **Nível 1, Nível 2 e Nível 3 (Analistas):** acompanham indicadores filtrados de sua equipe, com maior detalhamento.
-  - **Product Owner (PO):** visão macro da equipe, incluindo métricas de SLA, reincidência, volume por status e análises preditivas.
-  - **Gestor:** visão consolidada de todas as equipes sob sua gestão, com relatórios estratégicos e comparativos.
-
-## 2. Estrutura de Níveis de Acesso
-
-| Nível | Descrição |
-|-------|-----------|
-| Analista (N1, N2 e N3) |acompanha chamados complexos de sua equipe. |
-| Product Owner | Visão geral dos dados da equipe, relatórios e tendências. |
-| Gestor | Visão consolidada de todas as equipes sob sua gestão. |
-| Administrador (ADM) | Gerencia usuários, permissões, logs e configurações do sistema. |
-
-## 3. Fluxo Operacional
-
-1. Recebimento de chamados via **Flashdesk** (WhatsApp, e-mail, outros canais).
-2. Chamados são registrados na base e categorizados por **prioridade (VIP/Padrão)** e **SLA**.
-3. Cada nível monitora apenas os dados de sua competência:
-   - **N1, N2, N3:** visão de sua equipe.
-   - **Gestor:** visão consolidada da equipe.
-   - **PO:** visão consolidada de todas as equipes.
-4. Status possíveis:
-   - Novo
-   - Em andamento
-   - Pendente usuário
-   - Resolvido
-   - Fechado (após 48h sem retorno do usuário)
+A situação atual mostra que o banco de dados de suporte já não atende bem às necessidades da operação: ele não garante totalmente a conformidade com a lei, não oferece clareza suficiente para auditorias e nem facilita análises históricas ou preditivas. Isso significa que os relatórios acabam sendo engessados e repetitivos, sem dar uma visão completa para quem precisa tomar decisões. A proposta de modernização busca corrigir essas limitações, trazendo mais segurança no tratamento dos dados, transparência no acompanhamento das ações e dashboards que ajudem cada nível da equipe – desde os analistas até gestores e responsáveis estratégicos – a visualizar exatamente as informações de que precisam para trabalhar com mais eficiência.
 ---
 ## 🏅 Solução <a id="solucao"></a>
 
@@ -168,7 +121,7 @@ A LuminIA é um dashboard integrado com inteligência artificial, cuidadosamente
   
 ## 🏆 DoD - Definition of Done <a id="dod"></a>
 
-* Lista de tópicos
+- Manual do usuário
 - Código completo
 ---
 
@@ -192,62 +145,6 @@ A LuminIA é um dashboard integrado com inteligência artificial, cuidadosamente
  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"></a>
  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
 </h4>
-
-
-## 📖 Manual de Instalação <a id="manual"></a>
-
-### 🛠 Pré-requisitos
-
-- Git ([Download](https://git-scm.com/downloads))
-
----
-
-### 1. Clonar o Repositório Principal
-
-
-
-> **Observação:** Se já tiver clonado sem os submódulos, execute:
-
-
-
----
-
-### 2. Configuração do Backend
-
-**1° **
-
-**2° **
-
-**3° **
-
-**4° **
-
-**Opção A: **
-
-```bash
-
-```
-
-**Opção B: **
-
-```bash
-
-```
-
-**Saída Esperada:**
-<br>
-
----
-
-### 3. Configuração do Frontend (Vue.js)
-
-```bash
-
-```
-
-**Saída Esperada:**
-<br>
-
 
 ## 🎓 Equipe <a id="equipe"></a>
 
