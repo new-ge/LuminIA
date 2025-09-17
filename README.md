@@ -110,8 +110,9 @@ A LuminIA é um dashboard integrado com inteligência artificial, cuidadosamente
 | 16 | Administração | Média | Como administrador, quero criar usuários, para que possa conceder o acesso a aplicação. | 3 | | Em andamento | R24, RNF05 | 
 | 17 | Administração | Média | Como administrador, quero editar usuários, para que possa editar as informações dos usuários da aplicação. | 3 | | Em andamento | R24, RNF05 |
 | 18 | Login | Baixa | Como usuário da aplicação, quero realizar login com credenciais seguras, para que eu possa acessar apenas as funcionalidades autorizadas ao meu perfil. | 3 | | Em andamento | RNF05 |
-| 19 | Modernização dos dados | Alta | Como usuário da aplicação, quero que tenha uma modernização dos dados, para que possa acessar com mais facilidade os dados. | 1 | | Em andamento | RNF07 |
-| 20 | Manual do Usuário | Alta | Como usuário da aplicação, quero que tenha um manual do usuário, para que possa ver as funcionalidades e saber como mexer na aplicação | 3 | | Em andamento | RNF06 |
+| 19 | Modernização dos dados | Alta | Como usuário da aplicação, quero que tenha uma modernização dos dados, para que possa acessar com mais facilidade os dados. | 1 | 3 | Em andamento | RNF07 |
+| 20 | Modernização dos dados | Alta | Como usuário da aplicação, quero que meus dados pessoais sejam tratados em conformidade com a LGPD, ara que eu tenha segurança, transparência e facilidade ao acessar, corrigir ou excluir meus próprios dados. | 1 | 3 | Em andamento | RNF01 |
+| 21 | Manual do Usuário | Alta | Como usuário da aplicação, quero que tenha um manual do usuário, para que possa ver as funcionalidades e saber como mexer na aplicação | 3 | | Em andamento | RNF06 |
 
 ---
 
