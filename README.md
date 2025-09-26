@@ -14,18 +14,17 @@
   <a href ="#dor">DoR</a>  |
   <a href ="#dod">DoD</a>  |
   <a href ="#sprint"> Cronograma de Sprints</a>  |
-  <a href ="#tecnologias">Tecnologias</a> |
-  <a href ="#manual">Manual de Instalação</a>  | 
+  <a href ="#tecnologias">Tecnologias</a> | 
   <a href ="#equipe"> Equipe</a> |
 </p>
 
 > Status do Projeto: Em desenvolvimento... 🚧 
 >
-> Relatório de Testes: Em desenvolvimento... 🚧 [PDF](docs/201302063.jpeg) 📊
+> Relatório de Testes: Em desenvolvimento... 🚧 📊
 >
 > Pasta de Documentação: Em desenvolvimento... 🚧 [Link]([docs/201302063.jpeg](https://github.com/new-ge/LuminIA/wiki)) 📄
 > 
-> Video do Projeto:  [Youtube](docs/201302063.jpeg) 📽️
+> Video do Projeto:  [Youtube]() 📽️
 
 ## 🏅 Desafio <a id="desafio"></a>
 
