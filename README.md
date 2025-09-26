@@ -23,7 +23,7 @@
 >
 > Relatório de Testes: Em desenvolvimento... 🚧 [PDF](docs/201302063.jpeg) 📊
 >
-> Pasta de Documentação: Em desenvolvimento... 🚧 [Link](docs/201302063.jpeg) 📄
+> Pasta de Documentação: Em desenvolvimento... 🚧 [Link]([docs/201302063.jpeg](https://github.com/new-ge/LuminIA/wiki)) 📄
 > 
 > Video do Projeto:  [Youtube](docs/201302063.jpeg) 📽️
 
