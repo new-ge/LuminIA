@@ -92,7 +92,7 @@ A LuminIA é um dashboard integrado com inteligência artificial, cuidadosamente
 
 |  **Rank** | **Épico** | **Prioridade** | **User Story** | **Sprint** | **Story Points** | **Status** | **Requisitos** |
 | :--: | :--------: | :------: | :----------: | :----: | :------------------: | :----: | :----:|
-| 1 | Dashboard de Indicadores de Suporte com IA | Alta | Como gestor ou analista de suporte, quero disponibilizar um FAQ com respostas às perguntas mais comuns dos clientes, para que eu possa reduzir o volume de chamados repetitivos e agilizar o atendimento. | 1 | 8 | Em andamento | R26, RNF04 |
+| 1 | Dashboard de Indicadores de Suporte com IA | Alta | Como gestor ou analista de suporte, quero disponibilizar um FAQ com respostas às perguntas mais comuns dos clientes, para que eu possa reduzir o volume de chamados repetitivos e agilizar o atendimento. | 2 | 8 | Em andamento | R26, RNF04 |
 | 2 | Dashboard de Indicadores de Suporte com IA | Alta | Como gestor de suporte, quero visualizar o volume de chamados em aberto, para que possa saber quantos chamados ainda estão precisando de uma resposta. | 1 | 4 | ✅Concluído | R23, RNF02 |
 | 3 | Dashboard de Indicadores de Suporte com IA | Alta | Como gestor de suporte, quero visualizar o volume de chamados por período, com uma linha de tendência gerada por IA, para que possa identificar os picos de chamados e antecipar quais tipos de chamados têm maior probabilidade de ocorrer. | 1 | 11 | ✅Concluído | R23, RNF04 |
 | 4 | Dashboard de Indicadores de Suporte com IA | Alta | Como gestor de suporte, quero visualizar o tempo médio de resolução dos chamados, para que possa identificar se o atendimento está dentro dos padrões esperados. | 1 | 4 | ✅Concluído | R23 |
