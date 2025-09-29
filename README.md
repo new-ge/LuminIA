@@ -15,6 +15,7 @@
   <a href ="#dod">DoD</a>  |
   <a href ="#sprint"> Cronograma de Sprints</a>  |
   <a href ="#tecnologias">Tecnologias</a> | 
+  <a href ="#Burndown">Burndown</a> | 
   <a href ="#equipe"> Equipe</a> |
 </p>
 
@@ -24,7 +25,7 @@
 >
 > Pasta de Documentação: Em desenvolvimento... 🚧 [Link]([docs/201302063.jpeg](https://github.com/new-ge/LuminIA/wiki)) 📄
 > 
-> Video do Projeto:  [Youtube]() 📽️
+> Video do Projeto:  [Youtube](https://www.youtube.com/watch?v=0wkynwCSBhQ&list=PLHVGmwwpPVx5gGkzYJdrJ0NI2eazVkwds&pp=gAQB) 📽️
 
 ## 🏅 Desafio <a id="desafio"></a>
 
@@ -92,13 +93,13 @@ A LuminIA é um dashboard integrado com inteligência artificial, cuidadosamente
 |  **Rank** | **Épico** | **Prioridade** | **User Story** | **Sprint** | **Story Points** | **Status** | **Requisitos** |
 | :--: | :--------: | :------: | :----------: | :----: | :------------------: | :----: | :----:|
 | 1 | Dashboard de Indicadores de Suporte com IA | Alta | Como gestor ou analista de suporte, quero disponibilizar um FAQ com respostas às perguntas mais comuns dos clientes, para que eu possa reduzir o volume de chamados repetitivos e agilizar o atendimento. | 1 | 8 | Em andamento | R26, RNF04 |
-| 2 | Dashboard de Indicadores de Suporte com IA | Alta | Como gestor de suporte, quero visualizar o volume de chamados em aberto, para que possa saber quantos chamados ainda estão precisando de uma resposta. | 1 | 4 | Em andamento | R23, RNF02 |
-| 3 | Dashboard de Indicadores de Suporte com IA | Alta | Como gestor de suporte, quero visualizar o volume de chamados por período, com uma linha de tendência gerada por IA, para que possa identificar os picos de chamados e antecipar quais tipos de chamados têm maior probabilidade de ocorrer. | 1 | 11 | Em andamento | R23, RNF04 |
-| 4 | Dashboard de Indicadores de Suporte com IA | Alta | Como gestor de suporte, quero visualizar o tempo médio de resolução dos chamados, para que possa identificar se o atendimento está dentro dos padrões esperados. | 1 | 4 | Em andamento | R23 |
-| 5 | Dashboard de Indicadores de Suporte com IA | Alta | Como gestor de suporte, quero visualizar o volume de chamados que excederam o SLA, para que possa identificar atrasos, tomar ações corretivas e melhorar a eficiência da equipe de suporte. | 1 | 4 | Em andamento | R23 |
-| 6 | Dashboard de Indicadores de Suporte com IA | Alta | Como gestor de suporte, quero visualizar o volume de chamados reincidentes, para que possa identificar problemas recorrentes, reduzir retrabalho da equipe e melhorar a satisfação do cliente. | 1 | 4 | Em andamento | R23, RNF02 |
-| 7 | Dashboard de Indicadores de Suporte com IA | Alta | Como gestor de suporte, quero visualizar o volume de sentimento, usando uma IA para análise, para que possa identificar padrões recorrentes e a identificação rápida de chamados críticos. | 1 | 9 | Em andamento | R23, RNF04 |
-| 8 | Dashboard de Indicadores de Suporte com IA | Alta | Como gestor de suporte, quero filtrar por planos de SLA, equipe, status, período, prioridade, subcategoria e tag, para que possa analisar os dados segmentados e tomar decisões mais precisas. | 1 | 28 | Em andamento | R23 |
+| 2 | Dashboard de Indicadores de Suporte com IA | Alta | Como gestor de suporte, quero visualizar o volume de chamados em aberto, para que possa saber quantos chamados ainda estão precisando de uma resposta. | 1 | 4 | ✅Concluído | R23, RNF02 |
+| 3 | Dashboard de Indicadores de Suporte com IA | Alta | Como gestor de suporte, quero visualizar o volume de chamados por período, com uma linha de tendência gerada por IA, para que possa identificar os picos de chamados e antecipar quais tipos de chamados têm maior probabilidade de ocorrer. | 1 | 11 | ✅Concluído | R23, RNF04 |
+| 4 | Dashboard de Indicadores de Suporte com IA | Alta | Como gestor de suporte, quero visualizar o tempo médio de resolução dos chamados, para que possa identificar se o atendimento está dentro dos padrões esperados. | 1 | 4 | ✅Concluído | R23 |
+| 5 | Dashboard de Indicadores de Suporte com IA | Alta | Como gestor de suporte, quero visualizar o volume de chamados que excederam o SLA, para que possa identificar atrasos, tomar ações corretivas e melhorar a eficiência da equipe de suporte. | 1 | 4 | ✅Concluído | R23 |
+| 6 | Dashboard de Indicadores de Suporte com IA | Alta | Como gestor de suporte, quero visualizar o volume de chamados reincidentes, para que possa identificar problemas recorrentes, reduzir retrabalho da equipe e melhorar a satisfação do cliente. | 1 | 4 | ✅Concluído | R23, RNF02 |
+| 7 | Dashboard de Indicadores de Suporte com IA | Alta | Como gestor de suporte, quero visualizar o volume de sentimento, usando uma IA para análise, para que possa identificar padrões recorrentes e a identificação rápida de chamados críticos. | 1 | 9 | ✅Concluído | R23, RNF04 |
+| 8 | Dashboard de Indicadores de Suporte com IA | Alta | Como gestor de suporte, quero filtrar por planos de SLA, equipe, status, período, prioridade, subcategoria e tag, para que possa analisar os dados segmentados e tomar decisões mais precisas. | 1 | 28 | ✅Concluído | R23 |
 | 9 | Dashboard de Indicadores de Suporte com IA | Alta | Como analista de suporte, quero visualizar o tempo médio de antecedência, para que eu possa entender se estou resolvendo os chamados com antecedência suficiente em relação ao prazo. | 2 | | Em andamento | R1 |
 | 10 | Dashboard de Indicadores de Suporte com IA | Alta | Como analista de suporte, quero visualizar o volume de chamados reincidentes, para que eu possa identificar quantos problemas estão retornando e melhorar a qualidade do atendimento. | 2 | | Em andamento | R2 |
 | 11 | Dashboard de Indicadores de Suporte com IA | Alta | Como analista de suporte, quero visualizar o volume de chamados com sentimento negativo, usando uma IA para análise, para que eu possa identificar padrões e atuar nos chamados mais críticos. | 2 | | Em andamento | R3, RNF04 |
@@ -129,11 +130,16 @@ A LuminIA é um dashboard integrado com inteligência artificial, cuidadosamente
 
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
 
-| Sprint          |    Período    | Documentação                                     |
-| --------------- | :-----------: | ------------------------------------------------ |
-| 🔖 **SPRINT 1** | 08/09 - 28/09 | [Sprint 1 Docs](./docs/processo/sprints/sprint-1/README.md) |
-| 🔖 **SPRINT 2** | 06/10 - 26/10 | [Sprint 2 Docs](./docs/processo/sprints/sprint-2/README.md) |
-| 🔖 **SPRINT 3** | 03/11 - 23/11 | [Sprint 3 Docs](./docs/processo/sprints/sprint-3/README.md) |
+| Sprint          |    Período    |
+| --------------- | :-----------: | 
+| 🔖 **SPRINT 1** | 08/09 - 28/09 |
+| 🔖 **SPRINT 2** | 06/10 - 26/10 | 
+| 🔖 **SPRINT 3** | 03/11 - 23/11 |
+
+## 🆕 Burndown <a id="Burndown"></a>
+### Sprint-1
+![Imagem do WhatsApp de 2025-09-28 à(s) 17 33 42_8897514d](https://github.com/user-attachments/assets/0db5215f-15f6-473b-a0b2-4543b32f4947)
+
 
 ## 💻 Tecnologias <a id="tecnologias"></a>
 
