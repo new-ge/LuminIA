@@ -9,7 +9,9 @@
 
 <p align="center">
  |<a href ="#challenge"> Challenge </a>  |
-  <a href ="#solution"> Solution </a>  |   
+  <a href ="#solution"> Solution </a>  | 
+  <a href ="#non_functional_requirements"> Non-Functional Requirements </a>  |
+  <a href ="#functional_requirements"> Functional Requirements </a>  |
   <a href ="#backlog"> Product Backlog </a>  |
   <a href ="#dor"> DoR </a>  |
   <a href ="#dod"> DoD </a>  |
@@ -44,7 +46,7 @@ LuminIA is an integrated AI-powered dashboard carefully developed to facilitate 
 
 ---
 
-## Non-Functional Requirements  
+## Non-Functional Requirements <a id="non_functional_requirements"></a>
 
 | **ID** | **Title** |
 |:------:|:---------:|
@@ -58,7 +60,7 @@ LuminIA is an integrated AI-powered dashboard carefully developed to facilitate 
 
 ---
 
-## Functional Requirements  
+## Functional Requirements <a id="functional_requirements"></a>
 
 | **ID** | **Persona**   | **Title**                   | **Description** |
 | :------: | :-------------: | :---------------------------: | :---------------: |
@@ -222,7 +224,7 @@ LuminIA is an integrated AI-powered dashboard carefully developed to facilitate 
 
 ---
 
-## ❗More Information <a id="more_information"></a>
+## ❗ More Information <a id="more_information"></a>
 <p align="center">
   <a href="https://github.com/new-ge/LuminIA/wiki/Home">
     <img src="https://img.shields.io/badge/Wiki-Documentation-blue?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Wiki">
