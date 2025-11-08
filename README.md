@@ -24,11 +24,7 @@
 
 > Project Status: Under development... 🚧 
 >
-> Test Report: Under development... 🚧 📊
->
-> Documentation Folder: Under development... 🚧 [Link](https://github.com/new-ge/LuminIA/wiki) 📄
->
-> Project Video: [Youtube](https://www.youtube.com/watch?v=0wkynwCSBhQ&list=PLHVGmwwpPVx5gGkzYJdrJ0NI2eazVkwds&pp=gAQB) 📽️  
+> Project Video: [YouTube](https://www.youtube.com/watch?v=0wkynwCSBhQ&list=PLHVGmwwpPVx5gGkzYJdrJ0NI2eazVkwds&pp=gAQB)
 
 ---
 
@@ -118,7 +114,7 @@ LuminIA is an integrated AI-powered dashboard carefully developed to facilitate 
 | 17   | Administration                     | Medium   | As an administrator, I want to edit users so I can change user information.                                                                                       | 3        | 11           | In Progress  | R24, RNF05         |
 | 18   | Login                              | Low      | As a system user, I want to log in with secure credentials so I can access only authorized features.                                                               | 3        | 5            | In Progress  | RNF05               |
 | 19   | Data Modernization                  | High     | As a system user, I want data modernization so I can access data more easily.                                                                                      | 1        | 3            | Done    | RNF07               |
-| 20   | Data Modernization                  | High     | As a system user, I want my personal data handled in compliance with LGPD so I have security, transparency, and control over my data.                              | 2        | 3            | In Progress  | RNF01               |
+| 20   | Data Modernization                  | High     | As a system user, I want my personal data handled in compliance with LGPD so I have security, transparency, and control over my data.                              | 2        | 3            | Done  | RNF01               |
 | 21   | User Manual                        | High     | As a system user, I want a user manual so I can learn how to use the application.                                                                                  | 3        | 5            | In Progress  | RNF06               |
 22 | AI Support Indicators Dashboard | High | As a support analyst, I want to view open tickets so that I can work on unresolved cases. | 2 | 3 | Done | R27
 23 | AI Support Indicators Dashboard | High | As a support analyst, I want to view tickets that have exceeded the SLA so that I can identify priority issues and act quickly to reduce delays in service. | 2 | 3 | Done | R28
@@ -142,11 +138,11 @@ LuminIA is an integrated AI-powered dashboard carefully developed to facilitate 
 
 ## 📅 Sprint Schedule <a id="sprint"></a>
 
-|      Sprint     |    Period     |
-| :-------------: | :-----------: | 
-| 🔖 **SPRINT 1** | 09/08 - 09/28 |
-| 🔖 **SPRINT 2** | 10/06 - 10/26 | 
-| 🔖 **SPRINT 3** | 11/03 - 11/23 |
+| Sprint          |     Period     |                        Documentation                        |
+| :-------------: | :------------: | :---------------------------------------------------------: |
+| 🔖 **SPRINT 1** | 09/08 - 09/28 | [Sprint 1 Docs](../../wiki/Sprint_BackLog#sprint-1) |
+| 🔖 **SPRINT 2** | 10/06 - 10/26 | [Sprint 2 Docs](../../wiki/Sprint_BackLog#sprint-2) |
+| 🔖 **SPRINT 3** | 11/03 - 11/23 | [Sprint 3 Docs](../../wiki/Sprint_BackLog#sprint-3) |
 
 ---
 
