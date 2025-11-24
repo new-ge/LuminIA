@@ -154,6 +154,9 @@ LuminIA is an integrated AI-powered dashboard carefully developed to facilitate 
 ### Sprint 2
 ![Imagem do WhatsApp de 2025-10-29 à(s) 20 48 04_11da2c10](https://github.com/user-attachments/assets/d9aed1e8-0338-41dd-b28b-c37f86a0099f)
 
+### Sprint 3
+<img width="1570" height="745" alt="image" src="https://github.com/user-attachments/assets/81998d67-8c26-4c5f-985e-c60695bfb1c3" />
+
 ---
 
 ## 💻 Technologies <a id="technologies"></a>
