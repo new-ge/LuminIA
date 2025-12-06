@@ -22,7 +22,7 @@
   <a href ="#more_information"> More Information </a> |
 </p>
 
-> Project Status: Under development... 🚧 
+> Project Status: Done ✔️
 >
 > Project Video: [YouTube](https://www.youtube.com/watch?v=0wkynwCSBhQ&list=PLHVGmwwpPVx5gGkzYJdrJ0NI2eazVkwds&pp=gAQB)
 
